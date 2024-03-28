@@ -3,7 +3,7 @@
 ```bash
 go run main.go
 ```
-<\br>
+
 ### Run using Docker file:
 1. Docker build:
 ```bash
